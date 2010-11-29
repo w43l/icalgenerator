@@ -1,0 +1,5 @@
+php ical file generator
+is a small tool to generate ical files from a database table
+icalgenerator is a free software licensed under GPL v 3 lincense 
+http://www.gnu.org/licenses/gpl-3.0.html
+you are free to use, supplied as is without any guarantees
